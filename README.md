@@ -1,3 +1,5 @@
+# copy from https://github.com/jenkinsci/custom-checkbox-parameter-plugin  [modify checkbox br]
+
 # Custom Checkbox Parameter Plugin
 
 This plug-in can dynamically create a set of check boxes for users to check before building. The check box settings are configured through YAML or JSON files, and the file content can be obtained through HTTP, HTTPS, or file paths.
